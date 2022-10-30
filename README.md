@@ -1,4 +1,4 @@
-<p align="center"><img width="45%" alt="hi there, I'm Mustajab! A Software Developer" src="./assets/introBanner.png" /></a></p>
+<p align="center"><img width="35%" alt="hi there, I'm Mustajab! A Software Developer" src="./assets/introBanner.png" /></a></p>
 
 ## **About me**
 
